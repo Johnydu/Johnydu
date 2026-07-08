@@ -22,7 +22,7 @@ public class JohnyDuarte {
     String nome        = "Johny Duarte";
     String localizacao = "São José do Rio Preto, SP 🇧🇷";
     String graduacao   = "Análise e Desenvolvimento de Sistemas";
-    String faculdade   = "UNIRP — 4º Período";
+    String faculdade   = "UNIRP — 5º Período";
     String foco        = "Back-end Development";
 
     String[] interesses = {
