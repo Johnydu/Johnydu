@@ -71,10 +71,25 @@ O LumiFlow está em evolução e validação em ambiente real. O código-fonte �
 - CSS3
 - Bootstrap
 
-**Ferramentas**
+**Ferramentas de desenvolvimento**
 - Git e GitHub
 - Maven
 - IntelliJ IDEA
+- Claude Code
+
+---
+
+## IA aplicada ao desenvolvimento
+
+Utilizo o **Claude Code** como ferramenta de apoio ao desenvolvimento de software, integrando IA ao fluxo de trabalho para aumentar a produtividade e apoiar tarefas técnicas.
+
+- Análise e compreensão de código existente
+- Apoio na implementação e evolução de funcionalidades
+- Investigação de erros e suporte ao debugging
+- Refatoração e organização de código
+- Apoio à documentação técnica e revisão de soluções
+
+As sugestões geradas são avaliadas e validadas considerando os requisitos, as regras de negócio e a qualidade do código. A IA atua como ferramenta de apoio; as decisões técnicas e a responsabilidade pela solução permanecem sob meu controle.
 
 ---
 
