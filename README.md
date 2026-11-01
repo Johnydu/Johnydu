@@ -1,189 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Johny%20Duarte&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Johny%20Duarte&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot&descAlignY=60&descAlign=50&descSize=17" width="100%"/>
+
+### Desenvolvedor Backend Java | Spring Boot | PostgreSQL
+
+Estudante de Análise e Desenvolvimento de Sistemas na UNIRP  
+São José do Rio Preto — SP, Brasil
+
+[LinkedIn](https://www.linkedin.com/in/johny-duarte-3a2b6435b) · [GitHub](https://github.com/johnydu)
 
 </div>
 
 ---
 
-<div align="center">
+## Sobre mim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Back-end+Java+%F0%9F%9A%80;Especialista+em+Spring+Boot+%26+Arquitetura;Estudante+de+ADS+na+UNIRP+%F0%9F%8E%93;Construindo+sistemas+ERP+robustos+%F0%9F%94%A7" alt="Typing SVG" />
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor com foco em **Java e desenvolvimento backend**. Tenho interesse em construir aplicações bem estruturadas, APIs REST e sistemas que resolvam problemas reais de negócio.
 
-</div>
+Atualmente, estudo e desenvolvo projetos utilizando Java, Spring Boot, Spring Data JPA, Spring Security e PostgreSQL. Também tenho experiência prática em ambiente industrial, o que contribui para meu entendimento de processos operacionais e necessidades de sistemas de gestão.
 
----
-
-## 👨‍💻 Sobre mim
-
-```java
-public class JohnyDuarte {
-
-    private String nome = "Johny Duarte";
-    private String localizacao = "São José do Rio Preto, SP 🇧🇷";
-    private String profissao = "Desenvolvedor Back-end | Vidraceiro Industrial";
-    
-    private Formacao graduacao = new Formacao(
-        "Análise e Desenvolvimento de Sistemas",
-        "UNIRP — 5º Período",
-        "Previsão: Dezembro/2026"
-    );
-    
-    private Experiencia experienciaProfissional = new Experiencia(
-        "RBL Iluminação",
-        "2023 - Atual",
-        "Visão prática de processos produtivos e gestão operacional"
-    );
-
-    private String[] interesses = {
-        "APIs RESTful robustas",
-        "Arquitetura de Software",
-        "Sistemas ERP",
-        "Clean Code & SOLID",
-        "Segurança e Autenticação",
-        "Otimização de Banco de Dados"
-    };
-
-    public String missao() {
-        return "Transformar lógica em soluções reais que agregam valor 🚀";
-    }
-}
-```
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — UNIRP (conclusão prevista: dezembro de 2026)
+- 💻 **Foco:** Desenvolvimento Backend Java
+- 📍 **Localização:** São José do Rio Preto — SP
+- 🏭 **Experiência profissional:** ambiente industrial e processos produtivos
 
 ---
 
-## 🏆 Projeto Principal: LumiFlow
+## Projeto em destaque
 
-> **Sistema ERP de Gestão de Produção Industrial**
+### LumiFlow — Sistema de Gestão da Produção Industrial
 
-Um sistema web completo desenvolvido em **Java + Spring Boot** para gerenciamento de produção industrial, incluindo módulos integrados de usuários, produtos, máquinas, setores, roteiros e ordens de produção.
+Sistema web desenvolvido para organizar e acompanhar processos de produção em ambiente fabril. O projeto nasceu de uma necessidade real observada no contexto industrial e contempla funcionalidades relacionadas ao fluxo de produção.
 
-### 🎯 Funcionalidades
+**Tecnologias utilizadas**
+- Java 21 e Spring Boot 3
+- Spring Data JPA e Hibernate
+- Spring Security
+- PostgreSQL e Flyway
+- Thymeleaf, HTML5 e CSS3
+- Maven e Git
 
-- ✅ **Autenticação & Autorização** com Spring Security
-- ✅ **Gestão de Produção** com múltiplas entidades relacionadas
-- ✅ **Banco de Dados Relacional** PostgreSQL com versionamento (Flyway)
-- ✅ **Interface Responsiva** com Thymeleaf + Bootstrap
-- ✅ **Arquitetura Profissional** com padrões SOLID e Design Patterns
+**Principais áreas do sistema**
+- Gestão de usuários e níveis de acesso
+- Cadastro de produtos, máquinas e setores
+- Roteiros de produção
+- Ordens de produção e acompanhamento das etapas
+- Registros e histórico das operações
 
-### 🛠 Tech Stack (LumiFlow)
-
-| Camada | Tecnologias |
-|--------|------------|
-| **Back-end** | Java 17+, Spring Boot 3.x, Spring Data JPA, Hibernate |
-| **Segurança** | Spring Security, Autenticação por Sessão |
-| **Front-end** | Thymeleaf, HTML5, CSS3, Bootstrap 5 |
-| **Banco de Dados** | PostgreSQL, Flyway (Migrations) |
-| **Build & Deploy** | Maven, Git, GitHub |
-
-### 📂 Repositório
-
-👉 **[github.com/Johnydu/LumiFlow](https://github.com/Johnydu/LumiFlow)** — Código completo + instruções
+O LumiFlow está em evolução e validação em ambiente real. O código-fonte é mantido em repositório privado.
 
 ---
 
-## 🔧 Stack Tecnológica
+## Tecnologias
 
-<div align="center">
+**Backend**
+- Java 21
+- Spring Boot
+- Spring MVC
+- Spring Data JPA / Hibernate
+- Spring Security
+- APIs REST
 
-### 🎯 Back-end (Especialidade)
-![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+**Banco de dados**
+- PostgreSQL
+- Flyway
 
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+**Frontend**
+- Thymeleaf
+- HTML5
+- CSS3
+- Bootstrap
 
-### 🎨 Front-end (Complementar)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠️ Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-</div>
+**Ferramentas**
+- Git e GitHub
+- Maven
+- IntelliJ IDEA
 
 ---
 
-## 📚 Formação Acadêmica
+## Experiência profissional
+
+### RBL Iluminação — Área industrial
+**2023 – Atual** · São José do Rio Preto, SP
+
+Atuação em ambiente de produção industrial, desenvolvendo experiência prática com processos produtivos, rotina operacional e qualidade.
+
+Essa vivência também contribui para minha atuação em desenvolvimento de software, especialmente na compreensão de fluxos de trabalho e dos desafios que sistemas de gestão podem ajudar a resolver.
+
+---
+
+## Formação acadêmica
+
+**UNIRP — Centro Universitário de Rio Preto**  
+Tecnólogo em Análise e Desenvolvimento de Sistemas  
+Em andamento · Conclusão prevista: dezembro de 2026
+
+---
+
+## Atualmente aprofundando conhecimentos
+
+- Desenvolvimento de APIs REST com Spring Boot
+- Persistência de dados com JPA e PostgreSQL
+- Segurança de aplicações com Spring Security
+- Testes automatizados
+- Boas práticas de arquitetura, organização e manutenção de código
+
+---
+
+## Contato
 
 <div align="center">
 
-| 🎓 Instituição | 📖 Curso | 📅 Status |
-|:-:|:-:|:-:|
-| **UNIRP** — Centro Universitário de Rio Preto | Tecnólogo em Análise e Desenvolvimento de Sistemas | 5º Período · **Em andamento** |
-
-</div>
-
----
-
-## 💼 Experiência Profissional
-
-### **RBL Iluminação** — Vidraceiro
-**2023 – Atual** | São José do Rio Preto, SP
-
-Mais de 3 anos de experiência em ambiente industrial, com visão prática sobre:
-- Processos produtivos e otimização de fluxos
-- Gestão operacional e controle de qualidade
-- Entendimento profundo de demandas reais de negócio
-
-> *Essa experiência me dá um diferencial único: compreendo os desafios reais que um sistema ERP precisa resolver.*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=johnydu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnydu&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=johnydu&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-</div>
-
----
-
-## 🌱 O que estou aprendendo
-
-- 📚 Patterns avançados de arquitetura (CQRS, Event Sourcing)
-- 🔒 Segurança em profundidade (OAuth2, JWT)
-- ⚡ Performance e otimização de queries SQL
-- 🧪 Testes unitários e de integração com Spring
-- 🚀 CI/CD e deployment em produção
-
----
-
-## 🚀 Vamos nos conectar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johny-duarte-3a2b6435b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johny1893@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johny-duarte-3a2b6435b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johny1893@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnydu)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-![Visitors](https://komarev.com/ghpvc/?username=johnydu&color=6C63FF&style=flat-square&label=Visitantes)
-
-**⭐ Se você gostou, considere dar uma estrela no [LumiFlow](https://github.com/johnydu/LumiFlow)!**
 
 </div>
