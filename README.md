@@ -7,7 +7,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas na UNIRP  
 São José do Rio Preto — SP, Brasil
 
-[LinkedIn](https://www.linkedin.com/in/johny-duarte-3a2b6435b) · [GitHub](https://github.com/johnydu)
+[LinkedIn](https://www.linkedin.com/in/johny-duarte-3a2b6435b)
 
 </div>
 
