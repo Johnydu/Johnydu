@@ -1,133 +1,41 @@
-<div align="center">
+<h1 align="center">Olá, eu sou o Johny 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Johny%20Duarte&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot&descAlignY=60&descAlign=50&descSize=17" width="100%"/>
-
-### Desenvolvedor Backend Java | Spring Boot | PostgreSQL
-
-Estudante de Análise e Desenvolvimento de Sistemas na UNIRP  
-São José do Rio Preto — SP, Brasil
-
-[LinkedIn](https://www.linkedin.com/in/johny-duarte-3a2b6435b)
-
-</div>
+<p align="center">
+  Desenvolvedor backend Java. Gosto de transformar processos reais em software que funciona.
+  <br />
+  <a href="https://johnydu.github.io/Portfolio/"><strong>Portfólio</strong></a> ·
+  <a href="https://www.linkedin.com/in/johny-duarte-3a2b6435b">LinkedIn</a>
+</p>
 
 ---
 
-## Sobre mim
+### 🔨 No que estou trabalhando
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor com foco em **Java e desenvolvimento backend**. Tenho interesse em construir aplicações bem estruturadas, APIs REST e sistemas que resolvam problemas reais de negócio.
+**[LumiFlow](https://johnydu.github.io/Portfolio/#projetos)**: sistema de gestão da produção industrial, com ordens de produção, rastreabilidade, refugos e indicadores em tempo real.
+É um produto comercial, por isso o código é privado. A demonstração está disponível pelo [LinkedIn](https://www.linkedin.com/in/johny-duarte-3a2b6435b).
 
-Atualmente, estudo e desenvolvo projetos utilizando Java, Spring Boot, Spring Data JPA, Spring Security e PostgreSQL. Também tenho experiência prática em ambiente industrial, o que contribui para meu entendimento de processos operacionais e necessidades de sistemas de gestão.
+`Java 21` `Spring Boot 3` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf`
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — UNIRP (conclusão prevista: dezembro de 2026)
-- 💻 **Foco:** Desenvolvimento Backend Java
-- 📍 **Localização:** São José do Rio Preto — SP
-- 🏭 **Experiência profissional:** ambiente industrial e processos produtivos
+### 📌 Repositórios para conhecer
 
----
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [Portfolio](https://github.com/Johnydu/Portfolio) | Meu portfólio, SPA com testes, acessibilidade e deploy automático no GitHub Pages | React · TypeScript · Vite |
+| [landing-page](https://github.com/Johnydu/landing-page) | Landing page de uma academia de karatê ([ver no ar](https://johnydu.github.io/landing-page/)) | HTML · CSS |
+| [API-Pizzaria-Duarte](https://github.com/Johnydu/API-Pizzaria-Duarte) | API REST de uma pizzaria fictícia | Java · Spring Boot |
+| [DuartePalace](https://github.com/Johnydu/DuartePalace) | Sistema de um hotel fictício | Java |
 
-## Projeto em destaque
+### 🧰 Ferramentas do dia a dia
 
-### LumiFlow — Sistema de Gestão da Produção Industrial
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,hibernate,html,css,ts,react,git,docker,idea&perline=12" alt="Java, Spring, PostgreSQL, Maven, Hibernate, HTML, CSS, TypeScript, React, Git, Docker e IntelliJ IDEA" />
+</p>
 
-Sistema web desenvolvido para organizar e acompanhar processos de produção em ambiente fabril. O projeto nasceu de uma necessidade real observada no contexto industrial e contempla funcionalidades relacionadas ao fluxo de produção.
-
-**Tecnologias utilizadas**
-- Java 21 e Spring Boot 3
-- Spring Data JPA e Hibernate
-- Spring Security
-- PostgreSQL e Flyway
-- Thymeleaf, HTML5 e CSS3
-- Maven e Git
-
-**Principais áreas do sistema**
-- Gestão de usuários e níveis de acesso
-- Cadastro de produtos, máquinas e setores
-- Roteiros de produção
-- Ordens de produção e acompanhamento das etapas
-- Registros e histórico das operações
-
-O LumiFlow está em evolução e validação em ambiente real. O código-fonte é mantido em repositório privado.
+Também uso o **Claude Code** no fluxo de desenvolvimento, para analisar código, investigar erros e revisar soluções. As decisões técnicas continuam sendo minhas.
 
 ---
 
-## Tecnologias
-
-**Backend**
-- Java 21
-- Spring Boot
-- Spring MVC
-- Spring Data JPA / Hibernate
-- Spring Security
-- APIs REST
-
-**Banco de dados**
-- PostgreSQL
-- Flyway
-
-**Frontend**
-- Thymeleaf
-- HTML5
-- CSS3
-- Bootstrap
-
-**Ferramentas de desenvolvimento**
-- Git e GitHub
-- Maven
-- IntelliJ IDEA
-- Claude Code
-
----
-
-## IA aplicada ao desenvolvimento
-
-Utilizo o **Claude Code** como ferramenta de apoio ao desenvolvimento de software, integrando IA ao fluxo de trabalho para aumentar a produtividade e apoiar tarefas técnicas.
-
-- Análise e compreensão de código existente
-- Apoio na implementação e evolução de funcionalidades
-- Investigação de erros e suporte ao debugging
-- Refatoração e organização de código
-- Apoio à documentação técnica e revisão de soluções
-
-As sugestões geradas são avaliadas e validadas considerando os requisitos, as regras de negócio e a qualidade do código. A IA atua como ferramenta de apoio; as decisões técnicas e a responsabilidade pela solução permanecem sob meu controle.
-
----
-
-## Experiência profissional
-
-### RBL Iluminação — Área industrial
-**2023 – Atual** · São José do Rio Preto, SP
-
-Atuação em ambiente de produção industrial, desenvolvendo experiência prática com processos produtivos, rotina operacional e qualidade.
-
-Essa vivência também contribui para minha atuação em desenvolvimento de software, especialmente na compreensão de fluxos de trabalho e dos desafios que sistemas de gestão podem ajudar a resolver.
-
----
-
-## Formação acadêmica
-
-**UNIRP — Centro Universitário de Rio Preto**  
-Tecnólogo em Análise e Desenvolvimento de Sistemas  
-Em andamento · Conclusão prevista: dezembro de 2026
-
----
-
-## Atualmente aprofundando conhecimentos
-
-- Desenvolvimento de APIs REST com Spring Boot
-- Persistência de dados com JPA e PostgreSQL
-- Segurança de aplicações com Spring Security
-- Testes automatizados
-- Boas práticas de arquitetura, organização e manutenção de código
-
----
-
-## Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johny-duarte-3a2b6435b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johny1893@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnydu)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johnydu/Johnydu/output/github-snake-dark.svg" />
+  <img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/Johnydu/Johnydu/output/github-snake.svg" />
+</picture>
