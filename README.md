@@ -14,7 +14,7 @@
 **[LumiFlow](https://johnydu.github.io/Portfolio/#projetos)**: sistema de gestão da produção industrial, com ordens de produção, rastreabilidade, refugos e indicadores em tempo real.
 É um produto comercial, por isso o código é privado. A demonstração está disponível pelo [LinkedIn](https://www.linkedin.com/in/johny-duarte-3a2b6435b).
 
-`Java 21` `Spring Boot 3` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf`
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf`
 
 ### 📌 Repositórios para conhecer
 
