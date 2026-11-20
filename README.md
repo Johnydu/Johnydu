@@ -22,8 +22,7 @@
 | --- | --- | --- |
 | [Portfolio](https://github.com/Johnydu/Portfolio) | Meu portfólio, SPA com testes, acessibilidade e deploy automático no GitHub Pages | React · TypeScript · Vite |
 | [landing-page](https://github.com/Johnydu/landing-page) | Landing page de uma academia de karatê ([ver no ar](https://johnydu.github.io/landing-page/)) | HTML · CSS |
-| [API-Pizzaria-Duarte](https://github.com/Johnydu/API-Pizzaria-Duarte) | API REST de uma pizzaria fictícia | Java · Spring Boot |
-| [DuartePalace](https://github.com/Johnydu/DuartePalace) | Sistema de um hotel fictício | Java |
+
 
 ###  Ferramentas do dia a dia
 
