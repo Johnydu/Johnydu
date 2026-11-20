@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Johny 👋</h1>
+<h1 align="center">Olá, eu sou o Johny </h1>
 
 <p align="center">
   Desenvolvedor backend Java. Gosto de transformar processos reais em software que funciona.
@@ -16,7 +16,7 @@
 
 `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `Thymeleaf`
 
-### 📌 Repositórios para conhecer
+###  Repositórios para conhecer
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
@@ -25,7 +25,7 @@
 | [API-Pizzaria-Duarte](https://github.com/Johnydu/API-Pizzaria-Duarte) | API REST de uma pizzaria fictícia | Java · Spring Boot |
 | [DuartePalace](https://github.com/Johnydu/DuartePalace) | Sistema de um hotel fictício | Java |
 
-### 🧰 Ferramentas do dia a dia
+###  Ferramentas do dia a dia
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,hibernate,html,css,ts,react,git,docker,idea&perline=12" alt="Java, Spring, PostgreSQL, Maven, Hibernate, HTML, CSS, TypeScript, React, Git, Docker e IntelliJ IDEA" />
